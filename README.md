@@ -50,3 +50,4 @@ Applications : In real-world applications, linked lists are used in memory alloc
 
 *LANGUAGE*: C
 
+*OUTPUT*: [output prog2.docx](https://github.com/user-attachments/files/21484669/output.prog2.docx)
