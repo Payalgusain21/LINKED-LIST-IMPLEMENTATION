@@ -47,5 +47,13 @@ Main Function Flow
 
 In the main() function, the user is prompted to input three integers. Each input is inserted into the list using the insert() function. After all insertions, the list is displayed. The program then attempts to delete specific values from the list and displays the list after each deletion to show the updated structure.
 
+Applications : In real-world applications, linked lists are used in memory allocation, scheduling algorithms, undo-redo systems, and data organization tasks. The tool (C language and its standard libraries) provides low-level control over memory, making it ideal for system programming, embedded systems, and performance-critical software development.
+
 *EDITOR PLATFORM*: Visual Studio Code
+
 *LIBRARY*: <stdio.h>,<stdlib.h>
+
+*CONCEPTS*: structures, pointers, dynamic memory, linled lists, control flow
+
+*LANGUAGE*: C
+
